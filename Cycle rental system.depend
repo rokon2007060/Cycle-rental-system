@@ -1,0 +1,180 @@
+# depslib dependency file v1.0
+1684850147 source:c:\users\hp\onedrive\desktop\first c++ program\cycle rental system\main.cpp
+	<iostream>
+	"login.h"
+
+1684850743 c:\users\hp\onedrive\desktop\first c++ program\cycle rental system\login.h
+	<iostream>
+
+1685046731 source:c:\users\hp\onedrive\desktop\cycle rental system\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"login.h"
+	"student.h"
+	"registration.h"
+
+1685135015 c:\users\hp\onedrive\desktop\cycle rental system\login.h
+	"customer.h"
+	"owner.h"
+	<fstream>
+	<cstdlib>
+	<thread>
+	<chrono>
+	"cycle.h"
+	"edit.h"
+
+1685009079 c:\users\hp\onedrive\desktop\cycle rental system\student.h
+	<string>
+
+1685046363 c:\users\hp\onedrive\desktop\cycle rental system\customer.h
+	"student.h"
+	<fstream>
+
+1685046363 c:\users\hp\onedrive\desktop\cycle rental system\owner.h
+	"student.h"
+	<fstream>
+
+1685005831 source:c:\users\hp\onedrive\desktop\cycle rental system\customer.cpp
+	"customer.h"
+	<iostream>
+	<fstream>
+
+1685030667 source:c:\users\hp\onedrive\desktop\cycle rental system\owner.cpp
+	"owner.h"
+	<iostream>
+	<fstream>
+
+1685135479 source:c:\users\hp\onedrive\desktop\cycle rental system\cycle.cpp
+	"cycle.h"
+	"owner.h"
+	<iostream>
+	<fstream>
+
+1685135611 c:\users\hp\onedrive\desktop\cycle rental system\cycle.h
+	<fstream>
+	"owner.h"
+	"login.h"
+
+1685185129 source:c:\users\hp\onedrive\desktop\cycle rental system\registration.cpp
+	<iostream>
+	"registration.h"
+	"customer.h"
+	"owner.h"
+	<fstream>
+	<chrono>
+	<thread>
+	"cycle.h"
+
+1685123947 c:\users\hp\onedrive\desktop\cycle rental system\registration.h
+	"customer.h"
+	"owner.h"
+	<fstream>
+	"edit.h"
+
+1685185123 source:c:\users\hp\onedrive\desktop\cycle rental system\login.cpp
+	<iostream>
+	"login.h"
+	"customer.h"
+	"owner.h"
+	<fstream>
+	<cstdlib>
+	<thread>
+	<chrono>
+	"cycle.h"
+
+1685185095 source:c:\users\hp\onedrive\desktop\cycle rental system\edit.cpp
+	<iostream>
+	<fstream>
+	"edit.h"
+
+1685185044 c:\users\hp\onedrive\desktop\cycle rental system\edit.h
+	"owner.h"
+	"customer.h"
+	"login.h"
+
+1685350812 source:c:\users\hp\onedrive\desktop\cycle2\cycle rental system1\customer.cpp
+	"customer.h"
+	<iostream>
+	<fstream>
+
+1685046363 c:\users\hp\onedrive\desktop\cycle2\cycle rental system1\customer.h
+	"student.h"
+	<fstream>
+
+1685009079 c:\users\hp\onedrive\desktop\cycle2\cycle rental system1\student.h
+	<string>
+
+1685304994 source:c:\users\hp\onedrive\desktop\cycle2\cycle rental system1\cycle.cpp
+	"cycle.h"
+	"owner.h"
+	<iostream>
+	<fstream>
+
+1685135611 c:\users\hp\onedrive\desktop\cycle2\cycle rental system1\cycle.h
+	<fstream>
+	"owner.h"
+	"login.h"
+
+1685046363 c:\users\hp\onedrive\desktop\cycle2\cycle rental system1\owner.h
+	"student.h"
+	<fstream>
+
+1685135015 c:\users\hp\onedrive\desktop\cycle2\cycle rental system1\login.h
+	"customer.h"
+	"owner.h"
+	<fstream>
+	<cstdlib>
+	<thread>
+	<chrono>
+	"cycle.h"
+	"edit.h"
+
+1685185044 c:\users\hp\onedrive\desktop\cycle2\cycle rental system1\edit.h
+	"owner.h"
+	"customer.h"
+	"login.h"
+
+1685185095 source:c:\users\hp\onedrive\desktop\cycle2\cycle rental system1\edit.cpp
+	<iostream>
+	<fstream>
+	"edit.h"
+
+1685351458 source:c:\users\hp\onedrive\desktop\cycle2\cycle rental system1\login.cpp
+	<iostream>
+	"login.h"
+	"customer.h"
+	"owner.h"
+	<fstream>
+	<cstdlib>
+	<thread>
+	<chrono>
+	"cycle.h"
+
+1685303589 source:c:\users\hp\onedrive\desktop\cycle2\cycle rental system1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"login.h"
+	"student.h"
+	"registration.h"
+
+1685302057 c:\users\hp\onedrive\desktop\cycle2\cycle rental system1\registration.h
+	"customer.h"
+	"owner.h"
+
+1685185435 source:c:\users\hp\onedrive\desktop\cycle2\cycle rental system1\owner.cpp
+	"owner.h"
+	<iostream>
+	<fstream>
+
+1685302057 source:c:\users\hp\onedrive\desktop\cycle2\cycle rental system1\registration.cpp
+	<iostream>
+	"registration.h"
+	"customer.h"
+	"owner.h"
+	<fstream>
+	<chrono>
+	<thread>
+	"cycle.h"
+
